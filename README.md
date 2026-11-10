@@ -8,6 +8,7 @@
 
 <br/>
 
+[![AI Lab](https://img.shields.io/badge/Repo-MONTALV%C3%83O%20AI%20LAB-66E9F0?style=for-the-badge&logo=github&logoColor=080E1B)](https://github.com/MatheusMontal/montalvao-ai-lab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Montalv%C3%A3o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-montalv%C3%A3o-4a4008193/)
 [![Gmail](https://img.shields.io/badge/E--mail-matheusmontalvao706%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmontalvao706@gmail.com)
 [![Location](https://img.shields.io/badge/Sorocaba%2C%20SP-Brasil-0F192C?style=for-the-badge&logo=googlemaps&logoColor=66E9F0)](#)
